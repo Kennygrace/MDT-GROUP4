@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+#mimages {
+    margin-top: 350px;
+    margin-left: 20px;
+}
+.img {
+    margin: 16px;
+}
+footer{
+    background-color: #ccc;
+    padding: 12px;
+}
